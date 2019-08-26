@@ -3,9 +3,9 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: Prodev Library Test 2
+  name: Prodev Library test
   prettyName: Team Library
-  org: Vox Media
+  org: Vox Product
   icon: /assets/images/icon-logo.svg
   favicon: /assets/images/library.ico
 
