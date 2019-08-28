@@ -10,6 +10,21 @@
 // After copying, put your custom scss in this file, or other sibling folders in custom/style directory.
 // This file is imported last in the core styles stack, so style here will take precendence.
 
+// @import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Livvic&display=swap');
+
+// $font-branding: 'Hepta Slab', serif, cursive;
+// $font-headline: 'Open Sans', sans-serif;
+// $font-sans: 'Open Sans', sans-serif;
+
+#user-profile a.btn-user-whole:link, #user-profile a.btn-user-whole:visited {
+    color: white;   
+}
+
+// h3 {
+//   color: green !important;
+//   font-family: 'Livvic', serif !important;
+// }
+
 // 
 // // Write your styles directly here
 // h1 {

@@ -12,10 +12,20 @@
 
 // 
 // // Write your styles directly here
-h3 {
-  color: green !important;
-  font-family: 'Georgia', serif;
-}
+
+// @import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Livvic&display=swap');
+
+// $font-branding: 'Livvic', serif, cursive;
+// $font-headline: 'Open Sans', sans-serif;
+// $font-sans: 'Open Sans', sans-serif;
+
+// h3 {
+//   color: green !important;
+//   font-family: 'Livvic', serif !important;
+// }
+
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Livvic&display=swap');
+
 // 
 // 
 // // or import them from a nearby file

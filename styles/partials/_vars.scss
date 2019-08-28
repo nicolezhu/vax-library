@@ -1,8 +1,11 @@
 // Color
 //------------------------------------------------------------------------------
 
+// Overridden styles
+// $black        : #000;
+
 $white        : #fff;
-$black        : #000;
+$black        : #060B15;
 $gray-10      : #222;
 $gray-20      : #333;
 $gray-25      : #444;
@@ -18,7 +21,8 @@ $gray-80      : #f3f3f3;
 $gray-90      : #f7f7f7;
 
 $offwhite: #ececec;
-$accent: #0095ff;
+// $accent: #0095ff;
+$accent: #1cb053;
 $accent-light: lighten($accent, 25%);
 $accent-lightest: #FCF6F6;
 $accent-dark: darken($accent, 15%);
