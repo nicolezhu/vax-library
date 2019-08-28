@@ -3,20 +3,20 @@
 
 # base config in partials/branding, partials/head
 branding:
-  name: Prodev Library test
-  prettyName: Team Library
-  org: Vox Product
+  name: Vox Product Professional Development Guide
+  prettyName: Vox Product
+  org: Vox Media
   icon: /assets/images/icon-logo.svg
   favicon: /assets/images/library.ico
 
 # pages/categories, pages/index, partials/search
 landing:
-  tagline: One place for your organization's documents.
+  tagline: One place for all things professional development.
   viewAll: View All
   quickLink: <a href="/get-started">Get Started.</a>
   modules:
-    - tag: team
-      label: Find by team
+    - tag: idea
+      label: Browse ideas
       style: button
     - tag: featured
       label: Useful Docs
@@ -26,7 +26,7 @@ landing:
 # partials/footer
 footer:
   helpText: Questions? Contact your organization's administrators.
-  defaultEmail: user@your_organization.com
+  defaultEmail: nicole.zhu@voxmedia.com
   buttons:
     edit: Edit This Page
     move: Move This Page
