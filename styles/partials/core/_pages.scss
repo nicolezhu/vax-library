@@ -42,16 +42,16 @@
         margin: 0;
 
         .logo {
-          height: 26px;
+          height: 36px;
           // filter: invert(100%) brightness(80%);
           padding-top: 9px;
 
           @include tablet{
-            height: 36px;
+            height: 72px;
           }
 
           @include desktop{
-            height: 36px;
+            height: 72px;
           }
         }
       }
