@@ -44,7 +44,7 @@ search:
       person: !!js/function (lastUser) => `Last edited by <span class='author'>${lastUser}`
     none:
       kicker: !!js/function (query) => `There are no results for '${query}'`
-      suggestion: To request a new page, contact your administrators.
+      suggestion: <a href="/get-started/how-to-contribute-share-your-experiences">Contribute</a> a recommendation, write-up, presentation, or product.
 
 # categories/default
 folder:
