@@ -161,17 +161,25 @@
 // Menu Styles
 
 .popup h3 {
-  color: $accent-dark;
-  border-color: $accent-dark;
+  // color: $black;
+  // border-color: $black;
+  color: $dark-green;
+  border-color: $dark-green;
   font-size: 18px;
 }
 
 .popup ul.recently-viewed-content li .docs-title, .popup ul.most-viewed-content li .docs-title {
   font-weight: 600;
+  color: $black;
+}
+.popup ul.recently-viewed-content li .docs-title:hover, .popup ul.most-viewed-content li .docs-title:hover{
+  color: $accent;
 }
 
 .popup ul.recently-viewed-content li .docs-folder, .popup ul.most-viewed-content li .docs-folder {
-  background-color: #555555;
+  background-color: #C5E1B9; 
+  color: $black;
+  font-weight: 600;
 }
 
 // Page styles
