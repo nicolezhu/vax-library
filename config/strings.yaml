@@ -25,7 +25,7 @@ landing:
 
 # partials/footer
 footer:
-  helpText: Questions? Contact your organization's administrators.
+  helpText: "Questions? Talk to us on Slack in #vax-prodev"
   defaultEmail: nicole.zhu@voxmedia.com
   buttons:
     edit: Edit This Page
