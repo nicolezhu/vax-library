@@ -1,29 +1,3 @@
-// custom.scss
-// 
-// THIS IS A TEMPLATE!
-// 
-// Copy this file to custom/style, rather than editing it in place.
-// node-sass will automatically resolve the file in custom first.
-// This file is included as a placeholder so the import in style.scss does not break.
-// 
-// 
-// After copying, put your custom scss in this file, or other sibling folders in custom/style directory.
-// This file is imported last in the core styles stack, so style here will take precendence.
-
-// 
-// // Write your styles directly here
-
-// @import url('https://fonts.googleapis.com/css?family=Hepta+Slab|Livvic&display=swap');
-
-// $font-branding: 'Livvic', serif, cursive;
-// $font-headline: 'Open Sans', sans-serif;
-// $font-sans: 'Open Sans', sans-serif;
-
-// h3 {
-//   color: green !important;
-//   font-family: 'Livvic', serif !important;
-// }
-
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
 
 // NAVIGATION STYLES
@@ -53,7 +27,7 @@
 
 #main-search-page .main-item .branding .branding-label {
   line-height: 1.15 !important;
-  padding: 0px 8px;
+  padding: 0px 16px;
   height: 100%;
 }
 

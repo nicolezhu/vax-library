@@ -7,7 +7,7 @@ branding:
   prettyName: Vox Product
   org: Vox Media
   icon: /assets/images/icon-logo.svg
-  favicon: /assets/images/library.ico
+  favicon: /assets/images/favicon.ico
 
 # pages/categories, pages/index, partials/search
 landing:
